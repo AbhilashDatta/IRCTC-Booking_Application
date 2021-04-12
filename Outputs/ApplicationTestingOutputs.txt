@@ -1,0 +1,189 @@
+Bad Date
+
+BOOKING SUCCEEDED:
+PNR Number = 1
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 4763
+
+
+Bad_Stations
+
+BOOKING SUCCEEDED:
+PNR Number = 2
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 2411
+
+
+Bad_Name
+
+BOOKING SUCCEEDED:
+PNR Number = 3
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 4763
+
+
+Bad_Aadhar
+
+BOOKING SUCCEEDED:
+PNR Number = 4
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 4763
+
+
+Bad_Mobile
+
+BOOKING SUCCEEDED:
+PNR Number = 5
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 4763
+
+
+Bad Date of Booking
+
+BOOKING SUCCEEDED:
+PNR Number = 6
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 4763
+
+
+Bad_Senior_Citizen
+
+BOOKING SUCCEEDED:
+PNR Number = 7
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 2882
+
+
+Bad_Divyaang
+
+BOOKING SUCCEEDED:
+PNR Number = 8
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 4763
+
+
+Bad_Tatkaal
+
+BOOKING SUCCEEDED:
+PNR Number = 9
+From Station = Mumbai
+To Station = Delhi
+Reservation Date = 1/5/2021
+Travel Date = 2/5/2021
+Travel Class = ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+Fare = 5263
+
+

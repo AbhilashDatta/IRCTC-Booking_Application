@@ -1,0 +1,193 @@
+
+===Testing Station Class===
+
++++ Testing Construction +++
+Address of Constructed Object: 0x7ffce9bf6ec0
++++ Testing GetName() Method +++
+Name: Kolkata
++++ Testing operator << +++
+Kolkata Mumbai
++++ Testing GetDistance() Method +++
+Distance= 2014
+Distance between Chennai and Kolkata = 1659
+
+===Testing Date Class===
+
++++ Testing Construction and Validity+++
+Valid Date
+Address of Constructed Object: 0x7ffce9bf6f18
++++ Testing operator << +++
+28/2/2001
+
+===Testing Passenger Class===
+Mr. azad hind foug
+ : Date of Birth: 28/2/2001
+ : Gender: Male
+ : Aadhar: d8d73g28h123
+ : Mobile: 7602045111
+ : Disability Type: Cancer
+ : Disability ID: 1ow1
+
+Bad_Aadhar
+
+===Testing Gender Class===
+If nothing is printed till now, that means no error.
+
+===Testing BookingCategory Class===
+If nothing prints, it has no error.
+
+===Testing Railways Class===
+
++++ Testing operator << +++
+Name: IndianRailways
+
+Stations:
+Mumbai
+Delhi
+Bangalore
+Kolkata
+Chennai
+
+Distances:
+Chennai to Kolkata: 1659
+Kolkata to Chennai: 1659
+Chennai to Bangalore: 350
+Kolkata to Bangalore: 1871
+Bangalore to Chennai: 350
+Bangalore to Kolkata: 1871
+Mumbai to Delhi: 1447
+Delhi to Mumbai: 1447
+Mumbai to Bangalore: 981
+Kolkata to Mumbai: 2014
+Chennai to Mumbai: 1338
+Bangalore to Mumbai: 981
+Mumbai to Kolkata: 2014
+Mumbai to Chennai: 1338
+Delhi to Bangalore: 2150
+Bangalore to Delhi: 2150
+Delhi to Kolkata: 1472
+Delhi to Chennai: 2180
+Chennai to Delhi: 2180
+Kolkata to Delhi: 1472
+
++++ Testing GetDistance() Method +++
+Distance between Mumbai and Delhi: 1447
+
+===Testing Exceptions Class===
++++ Throwing all kinds of possible exceptions
+Bad Date
+Bad_Passenger
+Bad_Booking
+Bad_Railways
+Same To and From station
+Bad_Name
+Bad_Age
+Bad_Aadhar
+Bad_Mobile
+Bad Date of Booking
+Bad_Ladies
+Bad_Senior_Citizen
+Bad_Divyaang
+Bad_Tatkaal
+
+===Testing BookingClasses===
+
++++ Testing operator << for every Booking Class +++
+
+ACFirstClass
+ : Fare Load Factor: 6.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+
+AC2Tier
+ : Fare Load Factor: 4
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: No
+ : Reservation Charge: 50
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+
+AC3Tier
+ : Fare Load Factor: 2.5
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+ : Reservation Charge: 40
+ : Min Tatkal Charge : 300
+ : Max Tatkal Charge : 400
+ : Min Tatkal Distance : 500
+
+ACChairCar
+ : Fare Load Factor: 2
+ : Mode: Sitting
+ : Comfort: AC
+ : Bunks: 0
+ : Luxury: No
+ : Reservation Charge: 40
+ : Min Tatkal Charge : 125
+ : Max Tatkal Charge : 225
+ : Min Tatkal Distance : 250
+
+ExecutiveChairCar
+ : Fare Load Factor: 5
+ : Mode: Sitting
+ : Comfort: AC
+ : Bunks: 0
+ : Luxury: Yes
+ : Reservation Charge: 60
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 250
+
+FirstClass
+ : Fare Load Factor: 3
+ : Mode: Sleeping
+ : Comfort: Non-AC
+ : Bunks: 2
+ : Luxury: Yes
+ : Reservation Charge: 50
+ : Min Tatkal Charge : 400
+ : Max Tatkal Charge : 500
+ : Min Tatkal Distance : 500
+
+SecondSitting
+ : Fare Load Factor: 0.6
+ : Mode: Sitting
+ : Comfort: Non-AC
+ : Bunks: 0
+ : Luxury: No
+ : Reservation Charge: 15
+ : Min Tatkal Charge : 10
+ : Max Tatkal Charge : 15
+ : Min Tatkal Distance : 100
+
+Sleeper
+ : Fare Load Factor: 1
+ : Mode: Sleeping
+ : Comfort: Non-AC
+ : Bunks: 3
+ : Luxury: No
+ : Reservation Charge: 20
+ : Min Tatkal Charge : 100
+ : Max Tatkal Charge : 200
+ : Min Tatkal Distance : 500
+
+Fare Loaded Factor of ACFirstClass from Virtual GetLoadFactor() Method = 6.5
+Fare Loaded Factor of AC2Tier from Virtual GetLoadFactor() Method = 4
+Fare Loaded Factor of AC3Tier from Virtual GetLoadFactor() Method = 2.5
+Fare Loaded Factor of ACChairCar from Virtual GetLoadFactor() Method = 2
+Fare Loaded Factor of ExecutiveChairCar from Virtual GetLoadFactor() Method = 5
+Fare Loaded Factor of FirstClass from Virtual GetLoadFactor() Method = 3
+Fare Loaded Factor of SecondSitting from Virtual GetLoadFactor() Method = 0.6
+Fare Loaded Factor of Sleeper from Virtual GetLoadFactor() Method = 1
+END OF UNIT TESTING
